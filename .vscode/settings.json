@@ -1,0 +1,13 @@
+{
+  "files.eol": "\n",
+  "deno.enable": true,
+  "deno.lint": true,
+  "deno.unstable": true,
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
+  "editor.defaultFormatter": "denoland.vscode-deno",
+  "cSpell.words": [
+    "Deno",
+    "teamcity"
+  ]
+}
